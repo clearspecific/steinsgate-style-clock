@@ -2,6 +2,10 @@
 
 비쥬얼노벨 게임 **<슈타인즈 게이트(Steins;Gate)>** 의 감성을 담은 웹 기반 디지털 시계 프로젝트입니다. 상단에는 세계선 변동률을 나타내는 다이버전스 미터기(닉시관)를, 하단에는 타임 리프를 연상시키는 스플릿-플립(Split-Flap) 시계를 구현했습니다.
 
+## 🌐 라이브 데모 (웹에서 바로 보기)
+다운로드 없이 아래 링크를 클릭하면 브라우저에서 시계가 바로 작동합니다.
+👉 **[슈타인즈 게이트 다이버전스 시계 실행하기](https://clearspecific.github.io/steinsgate-style-clock/steinsgate-style-clock.html)**
+
 ## ✨ 주요 기능 (Features)
 * **닉시관 다이버전스 미터기**: CSS Glow 효과를 이용해 진공관 특유의 주황색 네온 불빛을 구현했습니다.
 * **스플릿-플립 시계 (Split-Flap Clock)**: CSS 3D Transform(`rotateX`) 속성을 활용하여 숫자가 반으로 갈라지며 넘어가는 역동적인 애니메이션을 적용했습니다. (월/일/요일/시/분/초 지원)
@@ -31,6 +35,10 @@
 
 A web-based digital clock project capturing the essence of the visual novel game **Steins;Gate**. The top section features a Divergence Meter (Nixie tube) representing the worldline divergence ratio, while the bottom section features a Split-Flap clock reminiscent of time leaping.
 
+## 🌐 Live Demo
+Click the link below to see the clock in action directly in your browser!
+👉 **[Run Steins;Gate Divergence Clock](https://clearspecific.github.io/steinsgate-style-clock/steinsgate-style-clock.html)**
+
 ## ✨ Key Features
 * **Nixie Tube Divergence Meter**: Implemented the signature orange neon glow of vacuum tubes using CSS Glow effects.
 * **Split-Flap Clock**: Applied dynamic animations where numbers split and flip over using CSS 3D Transform (`rotateX`). (Supports Month / Date / Day / Hour / Minute / Second)
@@ -52,4 +60,5 @@ A web-based digital clock project capturing the essence of the visual novel game
 ## 📝 Developer's Note
 * This mini-project was designed to learn the fundamentals of frontend development (HTML/CSS/JS).
 * The UI layout design and JavaScript animation logic were written while learning through **Pair Programming** with AI (Gemini).
+
 * This is the choice of Steins;Gate. El Psy Kongroo!
